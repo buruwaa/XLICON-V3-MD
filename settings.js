@@ -41,36 +41,36 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "Dark x Shena" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: buruwaa" //ur github or insta name
 //________________________________________________________________________________________________________
-global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
+global.location = process.env.GL_INFO || "Sri Lanka, Colombo" //ur location
 //________________________________________________________________________________________________________
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || 'K I N G  A M D A' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '94713932343' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'K I N G  A M D A' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "https://youtube.com/@darkxshena"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029errorChnell90"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/buruwaa/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY KING AMDAN"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "94713932343@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
@@ -91,7 +91,7 @@ global.antiforeignnumber = process.env.AUTO_BLOCK || '212' //set anti foreign nu
 //________________________________________________________________________________________________________
 global.welcome = process.env.WELCOME_MSG || true //welcome/left in groups
 //________________________________________________________________________________________________________
-global.anticall = process.env.GL_NOCALL || false //bot blocks user when called
+global.anticall = process.env.GL_NOCALL || true //bot blocks user when called
 //________________________________________________________________________________________________________
 global.autoswview = process.env.AUTO_STATUS_SEEN || true //auto status/story view
 //________________________________________________________________________________________________________
